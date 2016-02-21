@@ -11,6 +11,10 @@ public class Main {
 	
 	private static void display(){
 		System.out.println("I am the display function!");
+		
+		System.out.println("Test 1");
+		
+		
     }
 	
 
