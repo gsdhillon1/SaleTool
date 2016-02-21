@@ -13,6 +13,7 @@ public class Main {
 		System.out.println("I am the display function!");
 		
 		System.out.println("Test 1");
+		System.out.println("Test 2");
 		
 		
     }
